@@ -23,7 +23,8 @@
     --color-primary-contrast: #FFFFFF;	
     --color-secondary: 147, 100, 235;	
     /*--color-secondary: 255, 165, 0;*/	
-    --color-secondary-contrast: #FFFFFF;	
+    --color-secondary-contrast: #FFFFFF;
+    --strong-color: #ff4864;
 }
 
 /* CHANGE COLOURS IN CANVAS */
